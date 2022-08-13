@@ -4,6 +4,20 @@
     gap: 10px;
   }
 
+  .cabecalho .titulo {
+    font-size: 25px;
+  }
+
+  .cabecalho .logo-injustice-2 {
+    width: 125px;
+    height: none;
+  }
+
+  .cabecalho .logo-dc {
+    width: 18px;
+    height: 18px;
+  }
+
   .btn-seta {
     width: 20px;
     height: 20px;
