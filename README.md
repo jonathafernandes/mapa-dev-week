@@ -1,4 +1,4 @@
-<h2 align="center"> Mapa Dev Week - Carrossel </h2>
+<h2 align="center"> MapaDev Week - Carrossel </h2>
 
 <p align="center">
 Carrossel de cards.
