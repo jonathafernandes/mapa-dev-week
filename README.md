@@ -1,32 +1,15 @@
-<h2 align="center"> MapaDev Week - Carrossel </h2>
+<h2>MapaDev Week</h2>
 
-<p align="center">
-Carrossel de cards.
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
+<p>
+Carrossel de cards
 </p>
 
 <br>
 
-<p align="center">
-  <img alt="" src="./src/imagens/layout.png" width="80%">
-</p>
+<img alt="" src="./src/imagens/layout.png" width="80%">
 
-### 🚀 Tecnologias
+🚀 **Tecnologias:**
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com HTML, CSS e JavaScript
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-
-### 💻 Projeto
-
-Carrosel de cards de alguns personagens do jogo Injustice 2.
-
-### 🖱️ Visite
-
-https://jonathafernandes.github.io/mapa-dev-week/
+🖱️ **Visite:** _https://jonathafernandes.github.io/mapa-dev-week/_
